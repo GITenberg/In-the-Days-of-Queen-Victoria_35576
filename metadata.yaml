@@ -1,0 +1,32 @@
+_repo: In-the-Days-of-Queen-Victoria_35576
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35576-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tappan, Eva March
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '5176'
+    url: http://www.gutenberg.org/2009/agents/5176
+    wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
+description: Cover; Title Page; Copyright Page; Contents; Baby Drina; The Schooldays
+  of a Princess; Examination Day; The Queen at Eighteen; The Coronation; The Coming
+  of the Prince; Housekeeping in a Palace; A Home of Our Own; Nis! Nis! Nis! Hurrah!;
+  The Royal Young People; The Queen in Sorrow; The Little Folk; Mother and Empress;
+  The Jubilee Season; The Queen and the Children; The Closing Years.
+gutenberg_issued: '2011-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35576'
+  lccn: 03014845
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- !lcc 'PS'
+title: In the Days of Queen Victoria
+url: http://www.gutenberg.org/ebooks/35576
